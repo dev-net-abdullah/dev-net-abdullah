@@ -3,7 +3,6 @@ Hi, I’m **Abdullah** — a passionate full-stack web developer from **Pakistan
 
 I enjoy solving real-world problems with elegant software — from responsive frontends to robust backend APIs. Currently, I’m sharpening my skills in **C# and ASP.NET Core**, building projects with **TypeScript, JavaScript, React, Node.js**, and exploring **AI and automation workflows**.  
 
-[DEV Community](https://dev.to/abdullahhh)
 
 ---
 
