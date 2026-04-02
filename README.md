@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 Hi, I’m **Abdullah** — a passionate full-stack web developer from **Pakistan**. I focus on writing clean, scalable, and maintainable code while exploring new technologies daily.
 
 I enjoy solving real-world problems with elegant software — from responsive frontends to robust backend APIs. Currently, I’m sharpening my skills in **C# and ASP.NET Core**, building projects with **TypeScript, JavaScript, React, Node.js**, and exploring **AI and automation workflows**.  
@@ -6,13 +6,13 @@ I enjoy solving real-world problems with elegant software — from responsive fr
 
 ---
 
-## 🌐 Socials
+## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdvllahhkhaled) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devnetabdullah)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,7 +33,7 @@ I enjoy solving real-world problems with elegant software — from responsive fr
 
 ---
 
-## 🚀 What I Build
+## What I Build
 - Full-stack web applications  
 - APIs & backend systems  
 - Dynamic UIs with React & Svelte  
@@ -41,13 +41,13 @@ I enjoy solving real-world problems with elegant software — from responsive fr
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced **ASP.NET Core** backend  
 - SQL & NoSQL databases  
 - AI integrations & automation  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-net-abdullah&theme=dark)
 
