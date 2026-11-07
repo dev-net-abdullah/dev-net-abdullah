@@ -90,9 +90,6 @@ I'm the CTO of **Kreate Vision**, based in Pakistan. I lead engineering for our 
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=dev-net-abdullah&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-net-abdullah/dev-net-abdullah/output/github-snake-dark.svg" />
